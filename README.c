@@ -33,5 +33,5 @@ int main() {
             printf("Error! operator is not correct");
     }
     
-    return 0;
+    return 0; #this is C program to do arithmatic calculations
 }
